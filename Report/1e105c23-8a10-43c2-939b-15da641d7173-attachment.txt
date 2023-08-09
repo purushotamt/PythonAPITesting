@@ -1,0 +1,3 @@
+7761451
+{"status":"true","msg":"Add  data success"}
+{"status":"true","data":{"first_name":"Testing","middle_name":"M","last_name":"World1","date_of_birth":"12/12/1990","TechnicalDetails":[{"id":161577,"language":["Java","Python"],"yearexp":"4","lastused":"2019","st_id":"7761451"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"7761451"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"7761451"}]}}
